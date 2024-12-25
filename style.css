@@ -29,7 +29,7 @@ nav {
 }
 .menu {
   display: flex;
-  width: 60%;
+  width: 70%;
   gap: 8%;
 }
 .navbtn {
@@ -115,13 +115,6 @@ nav {
   align-items: center;
   justify-content: center;
   gap: 30px;
-}
-.select {
-  background-color: transparent;
-  border: none;
-}
-.select:hover {
-  cursor: pointer;
 }
 .button1 > a {
   color: rgba(51, 51, 51, 1);
